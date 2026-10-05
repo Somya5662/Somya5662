@@ -170,28 +170,6 @@ Published a book chapter on **"Integrating Yoga and AI for Holistic Wellbeing"**
 
 </p>
 
----
-
-## 🌱 Currently Learning
-
-```text
-Full-Stack Development
-        │
-        ├── React.js
-        ├── Node.js
-        ├── Express.js
-        └── MongoDB
-
-AI / ML
-        │
-        └── Generative AI
-
-Problem Solving
-        │
-        └── Data Structures & Algorithms
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
